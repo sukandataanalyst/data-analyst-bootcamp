@@ -20,12 +20,13 @@ ORDER BY Customers.CustomerName;
 
 -- Result:
 -- 832 records
--- NULL values found: None
+-- 2 customers have no matching orders.
+-- These rows contain NULL values in Orders.OrderID and Orders.OrderDate.
 
 -- Conclusion:
 -- LEFT JOIN preserves every record from the Customers table.
--- Because no NULL order values were found in the complete result,
--- every customer in this dataset has at least one matching order.
+-- The result contains 830 customer-order matches and 2 customers
+-- who have not placed any orders.
 --
--- The query returns one row for each matching customer-order
--- combination, showing the customer name, order ID, and order date.
+-- The NULL order values identify customers without matching records
+-- in the Orders table.
