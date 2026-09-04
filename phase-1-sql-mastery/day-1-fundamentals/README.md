@@ -36,8 +36,7 @@ Understand how SQL retrieves, filters, sorts, and combines data from related tab
 
 - HackerRank
 - StrataScratch
-- SQL Fiddle
-- Mode SQL Tutorial
+- W3Schools 
 
 ## INNER JOIN
 
