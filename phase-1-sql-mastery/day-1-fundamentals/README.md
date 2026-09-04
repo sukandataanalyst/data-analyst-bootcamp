@@ -32,11 +32,13 @@ Understand how SQL retrieves, filters, sorts, and combines data from related tab
 - Screenshot review of problems, queries, and results
 - Written explanations for query logic
 
-## Practice Platforms
+## Practice Platform
 
-- HackerRank
-- StrataScratch
-- W3Schools 
+- W3Schools SQL Editor
+
+## Database Used
+
+- Northwind sample database
 
 ## INNER JOIN
 
@@ -69,14 +71,20 @@ LEFT JOIN table\_b
     ON table\_a.common\_column = table\_b.common\_column;
 ```
 ## Selected Practice Work
-The detailed problem statements, screenshots, query results, alternative solutions, and personal explanations are stored in my Google Drive study archive.
 
-Selected GitHub SQL files:
+The Day 1 practice was completed using the Northwind sample database in the W3Schools SQL Editor.
 
-sql-basics.sql
-filtering-and-pattern-matching.sql
-inner-joins.sql
-left-joins.sql
+The detailed problem screenshots, query screenshots, result screenshots, comments, explanations, and learning notes are stored in my Google Drive archive.
+
+Selected GitHub SQL files will include:
+
+- `inner-join-two-tables.sql`
+- `inner-join-three-tables.sql`
+- `left-join.sql`
+- `right-join.sql`
+- `cross-join.sql`
+- `full-join.sql`
+
 
 ## Key Learning Points
 SELECT chooses the columns to display.
@@ -89,7 +97,8 @@ The ON clause defines how tables are connected.
 The WHERE clause filters the result after the join.
 
 ## Daily Milestone
-I can explain the difference between INNER JOIN and LEFT JOIN and describe how related tables are connected.
+
+I can explain how JOINs combine related tables in the Northwind database. I understand that INNER JOIN returns matching records, while LEFT JOIN preserves all records from the left table.
 
 ## Status
 Completed
