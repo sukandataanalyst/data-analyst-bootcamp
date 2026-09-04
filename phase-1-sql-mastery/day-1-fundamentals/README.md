@@ -79,7 +79,7 @@ The detailed problem screenshots, query screenshots, result screenshots, comment
 Selected GitHub SQL files will include:
 
 - `inner-join-two-tables.sql`
-- `inner-join-three-tables.sql`
+- `multi-table-join.sql`
 - `left-join.sql`
 - `right-join.sql`
 - `cross-join.sql`
