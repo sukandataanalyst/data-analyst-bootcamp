@@ -5,7 +5,7 @@ A structured portfolio documenting my 20-day Data Analyst Bootcamp from Septembe
 ## Bootcamp Phases
 
 ### Phase 1: SQL Mastery
-MySQL fundamentals, joins, subqueries, aggregates, window functions, set operations, integration, and SQL optimization.
+MySQL fundamentals, joins, subqueries, aggregates, window functions, set operations, integration, and SQL optimization. SQL Dialect: MySQL
 
 ### Phase 2: Python and Data Wrangling
 Python, NumPy, Pandas, data cleaning, merging, visualization, and exploratory data analysis.
