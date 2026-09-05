@@ -6,12 +6,14 @@
 
 ## Topics Practiced
 
-- Multiple JOINs
-- Three-table JOINs
-- JOIN conditions using `ON`
+- Multiple-table JOINs
 - Self-JOINs
-- Understanding the difference between `ON` and `WHERE`
-- Reading relationships between connected tables
+- ON conditions
+- SELECT and WHERE
+- LIKE and wildcard matching
+- AND and OR
+- Equality and comparison operators
+- ORDER BY
 
 ## Practice Platforms
 
