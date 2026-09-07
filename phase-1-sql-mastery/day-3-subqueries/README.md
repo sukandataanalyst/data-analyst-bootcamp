@@ -195,7 +195,7 @@ Day 3 completed successfully.
   StrataScratch
   HackerRank
   Google Drive
-  GitHub
+  GitHub 
 
 ## Date Completed
 September 4, 2026
