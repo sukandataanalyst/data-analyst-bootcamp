@@ -123,6 +123,28 @@ WHERE Price > (
     FROM Products
 );
 
+-- IN subquery
+SELECT
+    ProductName,
+    CategoryID
+FROM Products
+WHERE CategoryID IN (
+    SELECT CategoryID
+    FROM Categories
+    WHERE CategoryName = 'Beverages'
+);
+
+-- NOT IN subquery
+SELECT
+    ProductName,
+    CategoryID
+FROM Products
+WHERE CategoryID NOT IN (
+    SELECT CategoryID
+    FROM Categories
+    WHERE CategoryName = 'Beverages'
+);
+
 -- Correlated subquery
 SELECT
     p.ProductName,
@@ -168,12 +190,12 @@ HAVING COUNT(id) >= 5;
 Day 3 completed successfully.
 
 ## Tools Used
-MySQL
-W3Schools Northwind database
-StrataScratch
-HackerRank
-Google Drive
-GitHub
+  MySQL
+  W3Schools Northwind database
+  StrataScratch
+  HackerRank
+  Google Drive
+  GitHub
 
 ## Date Completed
 September 4, 2026
