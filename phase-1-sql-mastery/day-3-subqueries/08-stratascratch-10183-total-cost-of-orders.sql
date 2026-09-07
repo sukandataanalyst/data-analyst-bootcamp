@@ -1,18 +1,23 @@
--- Day 3: SQL Subqueries
+-- Day 3: SQL Practice
 -- Platform: StrataScratch
 -- Problem ID: 10183
 -- Database: StrataScratch practice database
--- Topic: JOIN, SUM(), WHERE, and GROUP BY
+-- Topic: JOIN, SUM(), GROUP BY, and ORDER BY
 -- Practice: Total Cost Of Orders
 
 -- =====================================================
 -- Query Logic
 -- =====================================================
 --
--- The query joins customers with their orders.
--- It filters orders placed during 2019.
--- SUM() calculates each customer's total order cost.
--- GROUP BY creates one result for each customer.
+-- The customers and orders tables are joined using
+-- the customer ID and customer reference ID.
+--
+-- SUM() calculates the total cost of orders for each
+-- customer.
+--
+-- GROUP BY creates one result row for each customer.
+--
+-- ORDER BY sorts the customers by first name.
 
 SELECT
     c.id,
@@ -30,28 +35,32 @@ ORDER BY c.first_name;
 -- Topics Used
 -- =====================================================
 --
--- JOIN, SUM(), GROUP BY, and ORDER BY
---
+-- SELECT
+-- FROM
+-- JOIN
+-- ON
+-- SUM()
+-- GROUP BY
+-- ORDER BY
+-- Column alias
+-- Aggregate function
+
 -- =====================================================
 -- Result
 -- =====================================================
 --
 -- 7 records
---
+
 -- =====================================================
 -- Conclusion
 -- =====================================================
 --
--- The customers and orders tables are connected using:
+-- The JOIN connects each customer with their orders.
 --
--- c.id = o.cust_id
+-- SUM() calculates the combined order cost for each
+-- customer.
 --
--- The WHERE clause keeps only orders placed in 2019.
+-- GROUP BY c.id and c.first_name ensures that each
+-- customer appears as one result row.
 --
--- SUM() calculates the total order cost for each customer.
---
--- GROUP BY combines each customer's 2019 orders into one
--- result row.
---
--- The results are sorted from the highest total cost
--- to the lowest total cost.
+-- The results are displayed alphabetically by first name.
