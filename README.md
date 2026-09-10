@@ -274,19 +274,6 @@ The completed portfolio will contain:
 - Interview talking points
 - Career goal
 
-## Career Goal
-
-To transition into a Data Analyst role by building practical technical skills, completing portfolio projects, developing interview confidence, and applying consistently to suitable opportunities.
-
-Structured job applications will begin after the portfolio review from October 5, 2026 onward.
-
-## Profiles
-
-- GitHub: https://github.com/sukandataanalyst/data-analyst-bootcamp
-- LinkedIn: To be added
-- StrataScratch: To be added
-- HackerRank: To be added
-
 ## Progress Status
 
 - Phase 1 SQL practice: In progress
@@ -331,10 +318,11 @@ The portfolio documentation will contain:
 - Career goal
 - Interview talking points
 
-
 ## Career Goal
 
-To transition into a Data Analyst role by building practical skills and portfolio projects.
+To transition into a Data Analyst role by building practical technical skills, completing portfolio projects, developing interview confidence, and applying consistently to suitable opportunities.
+
+Structured job applications will begin after the portfolio review from October 5, 2026 onward.
 
 ## Profiles
 
