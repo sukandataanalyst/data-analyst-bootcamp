@@ -88,7 +88,7 @@ Topics include:
 - Charts
 - Calculated fields
 - Dashboard design
-- Google Data Studio
+- Looker Studio
 - Dashboard documentation
 
 #### Project 1: Sales Performance Dashboard
@@ -326,6 +326,7 @@ Structured job applications will begin after the portfolio review from October 5
 
 ## Profiles
 
-- [LinkedIn](https://www.linkedin.com/in/sukanya-saravanan-2bb258220)
-- [StrataScratch](https://platform.stratascratch.com/user/SukanDataAnalyst)
-- [HackerRank](https://www.hackerrank.com/profile/sukandataanalyst)
+- GitHub: https://github.com/sukandataanalyst
+- LinkedIn: https://www.linkedin.com/in/sukanya-saravanan-2bb258220
+- HackerRank: https://www.hackerrank.com/profile/sukandataanalyst
+- StrataScratch: https://platform.stratascratch.com/user/SukanDataAnalyst
