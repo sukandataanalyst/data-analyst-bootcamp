@@ -115,36 +115,216 @@ September 28–29 are buffer days for:
 
 **Dates:** September 30–October 4, 2026
 
-#### Project 2: Customer Churn Analysis
+**Goal:** Complete the Customer Churn Analysis project, document both portfolio projects, and prepare the portfolio for review.
 
-Project activities include:
+Project 1, the Sales Performance Dashboard, should be completed and verified during Phase 3. Phase 4 focuses mainly on Project 2 and final portfolio quality.
 
-- Importing and inspecting the telecom customer churn dataset
-- Reviewing dataset structure and column meanings
-- Checking missing values and duplicate records
+#### Day 18 — September 30
+#### Customer Churn Analysis Setup, Cleaning, and EDA
+
+**Study window:** 8:00 AM–4:00 PM
+
+Topics include:
+
+- Understanding the customer churn project brief
+- Importing the dataset into Google Colab
+- Inspecting rows, columns, and data types
+- Checking missing values
+- Checking duplicate records
+- Cleaning inconsistent values
 - Converting columns to appropriate data types
-- Analyzing overall churn distribution
-- Exploring customer segments
-- Creating churn visualizations
-- Building a customer churn dashboard
-- Recording important findings
-- Preparing practical customer-retention recommendations
+- Encoding categorical columns when required
+- Reviewing customer demographics
+- Calculating overall churn distribution
+- Exploring relationships between customer features and churn
+- Creating initial visualizations
 
-#### Portfolio Completion
+Suggested dataset:
 
-Final portfolio activities include:
+- Telecom Customer Churn dataset from Kaggle or another free, accessible source
 
-- Finalizing the Sales Performance Dashboard documentation
-- Finalizing the Customer Churn Analysis documentation
-- Adding verified metrics and findings
-- Adding dashboard links
-- Reviewing GitHub folder names
-- Reviewing project README files
-- Improving project descriptions
-- Organizing Google Drive notes and screenshots
-- Updating the main portfolio README
-- Preparing interview talking points
-- Completing the final portfolio quality review
+Core deliverables:
+
+- Load the dataset into Google Colab
+- Clean and prepare the dataset
+- Document the cleaning decisions
+- Complete exploratory data analysis
+- Create five to seven verified visualizations
+- Save the notebook and supporting files
+- Record findings in Google Drive
+
+Suggested visualizations:
+
+- Overall churn distribution
+- Churn by contract type
+- Churn by internet service
+- Churn by tenure group
+- Churn by payment method
+- Correlation heatmap when appropriate
+- Customer segment comparison
+
+Daily milestone:
+
+- Customer churn data is cleaned
+- EDA is complete
+- Initial churn patterns are documented
+
+#### Day 19 — October 1
+#### Customer Churn Visualizations and Dashboard
+
+**Study window:** 8:00 AM–4:00 PM
+
+Topics include:
+
+- Reviewing verified EDA findings
+- Exporting required analysis results from Google Colab
+- Connecting the prepared data to Looker Studio
+- Creating dashboard charts
+- Adding filters and clear labels
+- Checking dashboard calculations
+- Writing concise business insights
+
+Core dashboard components:
+
+1. Overall churn rate KPI
+2. Churn by contract type
+3. Churn by internet service
+4. Churn by tenure group
+5. Churn by payment method
+6. Customer segment comparison table
+7. Additional chart based on a verified finding
+
+The final dashboard should include only metrics and findings calculated from the actual dataset.
+
+Core deliverables:
+
+- Prepared dashboard data
+- Customer churn dashboard
+- Verified dashboard calculations
+- Dashboard link
+- Screenshot of the completed dashboard
+- Google Drive documentation
+- Portfolio project folder prepared for GitHub
+
+Daily milestone:
+
+- Customer Churn Analysis dashboard is complete and verified
+
+#### Day 20 — October 2
+#### Portfolio Documentation and Final Polish
+
+**Study window:** 8:00 AM–4:00 PM
+
+Topics include:
+
+- Writing the Project 1 summary
+- Writing the Project 2 summary
+- Documenting project objectives
+- Documenting tools and methods
+- Recording verified metrics
+- Writing data-supported insights
+- Writing practical business recommendations
+- Preparing interview explanations
+- Reviewing LinkedIn and resume content when appropriate
+
+The portfolio document should include:
+
+##### Project 1: Sales Performance Dashboard
+
+- Objective
+- Dataset description
+- Tools used
+- Data-cleaning steps
+- Key verified metrics
+- Verified insights
+- Business recommendations
+- Dashboard link
+- Learning summary
+
+##### Project 2: Customer Churn Analysis
+
+- Objective
+- Dataset description
+- Tools used
+- Data-cleaning steps
+- EDA approach
+- Key verified metrics
+- Verified churn patterns
+- Business recommendations
+- Dashboard link
+- Learning summary
+
+All metrics and insights must be based on the actual analysis results. Placeholder values must be replaced only after verification.
+
+Skills demonstrated:
+
+- SQL
+- Python
+- Pandas
+- Data cleaning
+- Exploratory data analysis
+- Data visualization
+- Google Sheets
+- Looker Studio
+- Dashboard design
+- Business communication
+
+Daily milestone:
+
+- Both projects are documented
+- Portfolio descriptions are ready for review
+- Interview talking points are prepared
+
+#### October 3
+#### Portfolio Review and Verification Buffer
+
+Use this day to:
+
+- Test all dashboard links
+- Check GitHub links
+- Review project README files
+- Check spelling and formatting
+- Confirm that metrics match the analysis
+- Confirm that screenshots match the final results
+- Check that no placeholder text remains
+- Review Google Drive folder organization
+- Correct any unfinished documentation
+
+#### October 4
+#### Final Portfolio Quality Check
+
+Use this day to:
+
+- Review the complete GitHub repository
+- Review the main README
+- Review all project descriptions
+- Confirm that important files are present
+- Confirm that project links work
+- Confirm that dashboards are accessible
+- Confirm that Google Drive notes are organized
+- Prepare a final portfolio checklist
+- Prepare for structured job applications beginning October 5, 2026
+
+### Optional Bonus Work
+
+Bonus modules should be attempted only after all core deliverables are complete and verified.
+
+Possible bonus topics include:
+
+- Advanced CTE patterns
+- Query optimization with `EXPLAIN`
+- Advanced window-function patterns
+- Plotly visualizations
+- Statistical testing
+- Logistic regression
+- Looker Studio calculated fields
+- Blended data sources
+- Drill-down dashboards
+- Additional interview practice
+- Behavioral interview preparation
+
+Bonus work is optional and should not be treated as incomplete core bootcamp work.
+
 
 ## Daily Study Structure
 
