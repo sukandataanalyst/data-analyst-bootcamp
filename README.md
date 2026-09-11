@@ -117,9 +117,9 @@ September 28–29 are buffer days for:
 
 **Goal:** Complete the Customer Churn Analysis project, document both portfolio projects, and prepare the portfolio for review.
 
-Project 1, the Sales Performance Dashboard, should be completed and verified during Phase 3. Phase 4 focuses mainly on Project 2 and final portfolio quality.
+Project 1, the Sales Performance Dashboard, begins during the SQL/project-development stage and is completed during Phase 3. Phase 4 focuses on Project 2 and final portfolio quality.
 
-#### Day 18 — September 30
+#### Phase 4 Day 1 — September 30
 #### Customer Churn Analysis Setup, Cleaning, and EDA
 
 **Study window:** 8:00 AM–4:00 PM
@@ -145,7 +145,7 @@ Suggested dataset:
 
 Core deliverables:
 
-- Load the dataset into Google Colab
+- Load the churn dataset into Google Colab
 - Clean and prepare the dataset
 - Document the cleaning decisions
 - Complete exploratory data analysis
@@ -166,11 +166,11 @@ Suggested visualizations:
 Daily milestone:
 
 - Customer churn data is cleaned
-- EDA is complete
+- Exploratory data analysis is complete
 - Initial churn patterns are documented
 
-#### Day 19 — October 1
-#### Customer Churn Visualizations and Dashboard
+#### Phase 4 Day 2 — October 1
+#### Customer Churn Visualizations and Looker Studio Dashboard
 
 **Study window:** 8:00 AM–4:00 PM
 
@@ -178,7 +178,7 @@ Topics include:
 
 - Reviewing verified EDA findings
 - Exporting required analysis results from Google Colab
-- Connecting the prepared data to Looker Studio
+- Connecting prepared data to Looker Studio
 - Creating dashboard charts
 - Adding filters and clear labels
 - Checking dashboard calculations
@@ -194,7 +194,7 @@ Core dashboard components:
 6. Customer segment comparison table
 7. Additional chart based on a verified finding
 
-The final dashboard should include only metrics and findings calculated from the actual dataset.
+The final dashboard must include only metrics and findings calculated from the actual dataset.
 
 Core deliverables:
 
@@ -210,7 +210,7 @@ Daily milestone:
 
 - Customer Churn Analysis dashboard is complete and verified
 
-#### Day 20 — October 2
+#### Phase 4 Day 3 — October 2
 #### Portfolio Documentation and Final Polish
 
 **Study window:** 8:00 AM–4:00 PM
@@ -247,7 +247,7 @@ The portfolio document should include:
 - Dataset description
 - Tools used
 - Data-cleaning steps
-- EDA approach
+- Exploratory data analysis approach
 - Key verified metrics
 - Verified churn patterns
 - Business recommendations
@@ -288,7 +288,7 @@ Use this day to:
 - Confirm that screenshots match the final results
 - Check that no placeholder text remains
 - Review Google Drive folder organization
-- Correct any unfinished documentation
+- Correct unfinished documentation
 
 #### October 4
 #### Final Portfolio Quality Check
@@ -324,7 +324,6 @@ Possible bonus topics include:
 - Behavioral interview preparation
 
 Bonus work is optional and should not be treated as incomplete core bootcamp work.
-
 
 ## Daily Study Structure
 
